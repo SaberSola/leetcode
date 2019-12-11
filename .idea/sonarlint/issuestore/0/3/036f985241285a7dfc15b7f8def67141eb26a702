@@ -1,0 +1,9 @@
+
+Bsquid:S1659*"Declare "q" on a separate line.(½µ•Æüÿÿÿÿ8Ã‘şî-
+Esquid:S1659*""Declare "curr" on a separate line.(½µ•Æüÿÿÿÿ8Ã‘şî-
+Msquid:S1481"*Remove this unused "value" local variable.(£÷Î¦úÿÿÿÿ8…Š´şî-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª³ùÿÿÿÿ8ûµşî-
+\squid:S1854"9Remove this useless assignment to local variable "value".(£÷Î¦úÿÿÿÿ8…Š´şî-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8î¡øıî-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á”»£
