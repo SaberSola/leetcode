@@ -1,10 +1,10 @@
 
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÄĞ±¯8›óˆ§ï-
-usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏš§şÿÿÿÿ8×ã¦ï-
-[squid:S1197"8Move the array designator from the variable to the type.(Ü€æÊüÿÿÿÿ8Ô­§ï-
+Vsquid:S1197"8Move the array designator from the variable to the type.(“šÃ8Ô­§ï-
 usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(œÏš§şÿÿÿÿ8¬èı¦ï-
 usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏš§şÿÿÿÿ8×ã¦ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏš§şÿÿÿÿ8×ã¦ï-
+[squid:S1197"8Move the array designator from the variable to the type.(Ü€æÊüÿÿÿÿ8Ô­§ï-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄĞ±¯8›óˆ§ï-
 jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ¾´›ûÿÿÿÿ
-Vsquid:S1197"8Move the array designator from the variable to the type.(“šÃ8Ô­§ï-
 Esquid:S1659""Declare "iMax" on a separate line.(Ğí–åüÿÿÿÿ8¬èı¦ï-
